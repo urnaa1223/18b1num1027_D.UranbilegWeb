@@ -1,0 +1,53 @@
+{
+
+    "node"       : true,  
+
+
+    "globals": { 
+        "cs142App": true,
+        "angular": true,
+        "browser": true,
+        "element": true,
+        "by":true,
+        "io":true,
+        "_":true,
+        "$":false, 
+        "describe": true,
+        "it": true
+    },
+
+    "debug"         : false,  
+    "devel"         : true, 
+
+
+    "globalstrict"  : true,  
+    "strict": false,         
+
+    "boss"          : false, 
+    "curly"         : true,  
+    "eqeqeq"        : true,  
+    "eqnull"        : false, 
+    "evil"          : false, 
+    "expr"          : false, 
+    "forin"         : false, 
+    "immed"         : true,  
+    "latedef"       : true,  
+    "loopfunc"      : true,  
+    "noarg"         : true,  
+    "regexp"        : true,  
+    "regexdash"     : false, 
+    "scripturl"     : true,  
+    "supernew"      : false, 
+    "undef"         : true,  
+
+    "newcap"        : true,  
+    "noempty"       : true,  
+    "nonew"         : true,  
+    "nomen"         : true,  
+    "onevar"        : false, 
+    "plusplus"      : false, 
+    "sub"           : false, 
+    "trailing"      : true,  
+    "white"         : false, 
+    "indent"        : 2      
+}
